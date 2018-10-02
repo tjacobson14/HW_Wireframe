@@ -1,0 +1,103 @@
+/*  */
+head {
+    color: grey;
+    padding: 20px 200px 100px 200px;
+}
+body {
+    background-color: grey;
+    padding: 0px 200px 100px 200px;
+}
+
+.wrapper{
+    width: 850px;
+    padding: 0px;
+    margin: 0 auto 0 auto
+}
+
+header {
+    padding: 10px; 
+    height: 60px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #333;
+    background: #eeeeee;
+    text-align: center;
+}
+
+#Nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    color: #333;
+    background:#eeeeee;
+    text-align: center;
+}
+
+#Section {
+    background-color: #eeeeee;
+    width: 450px;
+    height: 225px;
+    overflow: auto;
+    clear: both;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    float:left
+}
+
+#article {
+    background-color: rgb(100, 98, 98);
+    width:430px;
+    height: 150px;
+    margin-bottom:5px;
+    margin-right:0px;
+    margin-left:-10px;
+    margin-top:25px;
+    padding:20px;
+    overflow: auto;
+    clear: both;
+    text-align: center;
+
+}
+
+#heading {
+    padding: 30px 15px 5px 15px;
+    margin-bottom: 5px;
+    height: 20px;
+    color: #333;
+    background: #eeeeee;
+    text-align: center; 
+    margin-top:25px;   
+}
+
+#paragraph {
+    padding: 30px 15px 5px 15px;
+    margin-bottom: 5px;
+    height: 20px;
+    color: #333;
+    background: #eeeeee;
+    text-align: center; 
+    margin-top: 5px;
+     
+}
+
+#Aside {
+    padding: 20px;
+    height: 225px;
+    width: 300px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #eeeeee;
+    text-align: center; 
+    float:right;
+}
+
+footer {
+    padding: 10px; 
+    height: 60px;
+    margin-bottom: 0px;
+    color: #333;
+    background: #eeeeee;
+    text-align: center;
+    margin-top:305px;
+}
